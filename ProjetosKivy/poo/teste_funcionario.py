@@ -1,4 +1,4 @@
-from funcionario import Funcionario
+from ProjetosKivy.poo.funcionario import Funcionario
 
 funcionario = Funcionario('Felipe', 'felipe@email.com.br')
 

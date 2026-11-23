@@ -1,4 +1,4 @@
-from area import Retangulo
+from ProjetosKivy.fundamentos.area import Retangulo
 
 import math
 

@@ -1,4 +1,4 @@
-from funcionalidades import *
+from ProjetosKivy.fundamentos.funcionalidades import *
 
 tv = Televisor('SONY', 'SONY-123')
 
